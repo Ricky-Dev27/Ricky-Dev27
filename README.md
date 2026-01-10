@@ -6,9 +6,9 @@
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
+##
+  <img align="center" alt="Ricky-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
  
-
-
 ##
 
 
@@ -17,11 +17,11 @@
    <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </a>
 </div>
-<div align=center>
 
+<div align=center>
+ 
   <img align="center" alt="Ricky-Js" height="100" width="200" src="https://tenor.com/pt-BR/view/i'm-okay-with-this-rick-rick-and-morty-i'm-fine-with-this-i'm-alright-with-this-gif-13369490372890804949.gif">
-  
-</div>
+<div>
 
 <div align=center>
   <img src="https://raw.githubusercontent.com/Ricky-Dev27/Ricky-Dev27/output/snake.svg" alt="Snake animation" />
