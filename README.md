@@ -22,4 +22,13 @@
   <img align="left" alt="Ricky-Js" height="100" width="200" src="https://tenor.com/pt-BR/view/i'm-okay-with-this-rick-rick-and-morty-i'm-fine-with-this-i'm-alright-with-this-gif-13369490372890804949.gif">
   
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/output/github-contribuition-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/outout/github-contribuition-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" srcset="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/output/github-contribuition-grid-snake-dark.svg">
+</picture><br>
+<br>
+
+
   
