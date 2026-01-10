@@ -23,12 +23,12 @@
   
 </div>
 
-<picture>
+
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/output/github-contribuition-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/outout/github-contribuition-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" srcset="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/output/github-contribuition-grid-snake-dark.svg">
-</picture><br>
-<br>
-
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricky-dev27/ricky-dev27/output/github-contribuition-grid-snake.svg">
+</picture>
+<br><br>
 
   
