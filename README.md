@@ -23,4 +23,8 @@
   
 </div>
 
+<div>
+  <img src="https://raw.githubusercontent.com/Ricky-Dev27/Ricky-Dev27/output/snake.svg" alt="Snake animation" />
+</div>
+
   
