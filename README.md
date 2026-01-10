@@ -5,11 +5,11 @@
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricky-Js" height="30" width="30" src="https://tenor.com/pt-BR/view/rick-gif-8457233535255419097.gif">
+
+ 
 </div>
 
-  
-  ##
+##
  
 <div> 
   
@@ -17,3 +17,9 @@
   <a href="https://www.linkedin.com/in/ricky-alan-santos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div>
+
+  <img align="left" alt="Ricky-Js" height="100" width="200" src="https://tenor.com/pt-BR/view/i'm-okay-with-this-rick-rick-and-morty-i'm-fine-with-this-i'm-alright-with-this-gif-13369490372890804949.gif">
+  
+</div>
+  
