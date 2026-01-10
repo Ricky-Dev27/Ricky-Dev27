@@ -1,4 +1,4 @@
-## Hello, I'm a student of Systems Analysis and Development, welcome to my READ-me!
+## Hello, I'm Ricky a student of Systems Analysis and Development, welcome to my READ-me!
 
 
 
