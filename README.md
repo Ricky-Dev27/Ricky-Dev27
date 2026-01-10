@@ -1,15 +1,5 @@
 ## Hello, I'm Ricky a student of Systems Analysis and Development, welcome to my READ-me!
 
-<div>
-  
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ricky-dev27" />
-</a>
-
-</div>
-
-
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
