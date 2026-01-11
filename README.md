@@ -1,6 +1,7 @@
 <div align="center"> 
   <h1>
     💫Hello, I'm Ricky a student of System Development Analysis.<br> Welcome to READ-me!
+  <img align="center" alt="Ricky-Js" height="35" width="35" src="https://tenor.com/pt-BR/view/rick-rick-and-morty-dancing-grooves-happy-gif-16600786.gif">
   </h1> 
 </div>
 
@@ -9,7 +10,6 @@
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ricky-Js" height="35" width="35" src="https://tenor.com/pt-BR/view/rick-rick-and-morty-dancing-grooves-happy-gif-16600786.gif">
 
 
 ##
@@ -24,9 +24,10 @@
 </a>
 </div>
 
-<div align=center>
+<div align=center><br>
  
-  <img align="center" alt="Ricky-Js" height="100" width="200" src="https://tenor.com/pt-BR/view/i'm-okay-with-this-rick-rick-and-morty-i'm-fine-with-this-i'm-alright-with-this-gif-13369490372890804949.gif">
+  <img align="center" alt="Ricky-Js" height="150" width="250" src="https://68.media.tumblr.com/69f34a9f9470ac330b6817aef7f7c0e3/tumblr_inline_o8q81fPjdA1rvxitd_500.gif">
+ 
 <div>
 
 <div align=center>
