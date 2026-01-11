@@ -1,5 +1,14 @@
-# 💫 Hello, I'm Ricky a student of System Development Analysis. <br> Welcome to READ-me!
-
+<div align="center"> 
+  
+  <span style="color:red">
+Ricky
+</span>
+ 
+  
+  <h1>
+    💫Hello, I'm Ricky a student of System Development Analysis.<br> Welcome to READ-me!
+  </h1> 
+</div>
 
 <div align=center style="display: inline_block"><br>
 
