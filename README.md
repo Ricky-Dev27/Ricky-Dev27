@@ -1,4 +1,5 @@
-## Hello, I'm Ricky a student of Systems Analysis and Development, welcome to my READ-me!
+## Hello, I'm Ricky a student of System Development Analysis. <br> Welcome to READ-me!
+
 
 <div align=center style="display: inline_block"><br>
 
