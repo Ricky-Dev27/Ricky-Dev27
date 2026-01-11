@@ -1,8 +1,8 @@
-<div align="center"> 
+<div align="center" style="color:red"> 
+ 
   
-  <span style="color:red">
 Ricky
-</span>
+
  
   
   <h1>
