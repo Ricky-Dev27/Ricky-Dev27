@@ -1,4 +1,4 @@
-## Hello, I'm Ricky a student of System Development Analysis. <br> Welcome to READ-me!
+## 💫 Hello, I'm Ricky a student of System Development Analysis. <br> Welcome to READ-me!
 
 
 <div align=center style="display: inline_block"><br>
@@ -29,4 +29,11 @@
 </div>
 
 
+
+![](https://github-readme-stats.vercel.app/api?username=Ricky-Dev27&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ricky-Dev27&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricky-Dev27&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ricky-Dev27&icon=2&color=0)](https://visitcount.itsvg.in)
 
