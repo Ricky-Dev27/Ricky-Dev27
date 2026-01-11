@@ -1,10 +1,4 @@
-<div align="center" span style="color:red"> 
- 
-  
-Ricky
-
- 
-  
+<div align="center"> 
   <h1>
     💫Hello, I'm Ricky a student of System Development Analysis.<br> Welcome to READ-me!
   </h1> 
@@ -15,6 +9,8 @@ Ricky
   <img align="center" alt="Ricky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ricky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ricky-Js" height="35" width="35" src="https://tenor.com/pt-BR/view/rick-rick-and-morty-dancing-grooves-happy-gif-16600786.gif">
+
 
 ##
   <img align="center" alt="Ricky-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
